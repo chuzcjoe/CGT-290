@@ -1,4 +1,4 @@
-# CGT-290
+# CGT-290-2020-Spring Lab Schedule
 
 ## Week1: Jupyter Notebook, Python, Github, Anaconda, Colab
 
