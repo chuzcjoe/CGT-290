@@ -8,8 +8,8 @@
 
 ## Week4: Numpy
 
-## Week5: Pandas
+## Week5: Matplotlib and Seaborn
 
-## Week6: Matplotlib and Seaborn
+## Week6: Pandas
 
 ## Week7: Review of Week2
