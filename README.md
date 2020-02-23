@@ -12,4 +12,8 @@
 
 ## Week6: Pandas
 
-## Week7: Review of Week2
+## Week7: Orange Software Tutorial
+
+## Week8: Orange Programming With Python
+
+## Week9: TBD
