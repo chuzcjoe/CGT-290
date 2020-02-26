@@ -16,4 +16,8 @@
 
 ## Week8: Orange Programming With Python
 
-## Week9: TBD
+## Week9: Interactive Visualization with Python 1
+
+## Week10: Interactive Visualization with Python 2
+
+## Week11: Interactive Visualization with Python 3
